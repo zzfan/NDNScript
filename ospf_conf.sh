@@ -1,9 +1,4 @@
 #!/bin/sh
-# ================
-# author: lizzfan
-# date: 10/16/2013
-# all rights reserved
-# ================
 myhost=zzfan.host
 logfile=/tmp/ospfd.log
 interface=zzfan-interface

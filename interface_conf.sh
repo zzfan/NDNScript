@@ -1,8 +1,4 @@
 #!/bin/sh
-# ===================
-# author: lihebi
-# date: 10/16/2013
-# ===================
 
 sudo modprobe ip_gre
 cd /etc/network
